@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflecing on BrowserHistory 1, 2, & 3"
+title: "Reflecting on BrowserHistory 1, 2, & 3"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-31
 published: true
