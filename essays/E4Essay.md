@@ -7,7 +7,7 @@ date: 2023-04-12
 published: true
 labels:
   - Progress Reflection
- ----
+---
  
  With the Spring 2023 nearing an end, I’ve been given the opportunity to reflect on my progress and all that I’ve learned in Information Technology Management (ITM) 352. My programming skills have improved drastically. Not only have I become more familiar with the fundamentals and syntax of JavaScript, but I have honed my ability to think analytically and provide logical solutions to abstract problems. I’ve loved becoming immersed in this world of technology because it’s made me aware of the creative side that programming can offer.
 On this note, there is always room to improve. I must learn to not overthink challenges. When presented with a problem, it would be wise for me to trust my gut instinct and entertain the first idea I have. I’ve learned that most times, things are not as complicated as they seem. 
